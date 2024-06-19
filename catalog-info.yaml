@@ -15,7 +15,7 @@ metadata:
     backstage.io/kubernetes-id: devspaces-image 
     backstage.io/techdocs-ref: dir:. 
     quay.io/repository-slug: ccordoui-demo-rhtssc/devspaces-image
-  tags: ["python", "pip", "flask", "sscs", "sbom", "acs"] 
+  tags: ["sscs", "sbom", "acs"] 
 spec:
   type: service
   owner: user:guest 
